@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="magento_Demo.Dropdown_Men3"/>
+      <class name="magento_Demo.Dropdown_Training5"/>
+      <class name="magento_Demo.VerifyTitle"/>
+      <class name="magento_Demo.Dropdown_Gear4"/>
+      <class name="magento_Demo.Dropdown_Women_2"/>
+      <class name="magento_Demo.User_Sing_In"/>
+      <class name="magento_Demo.User_Sign_Up"/>
+      <class name="magento_Demo.Launchurl"/>
+      <class name="magento_Demo.Dropdown_sale6"/>
+      <class name="magento_Demo.Dropdown_WhatNew1"/>
+      <class name="magento_Demo.Select_Iteam_1NG"/>
+      <class name="magento_Demo.MouseOverAction"/>
+      <class name="magento_Demo.Women_Select_1NG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
